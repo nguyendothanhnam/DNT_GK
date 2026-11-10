@@ -1,0 +1,10 @@
+{
+  "users": {
+    "YWRtaW5AZXhhbXBsZS5jb20": {
+      "email": "admin@example.com",
+      "matkhau": "scrypt$0bfb8da08d58068118bd98599c2936de$24617be9bbc9fc8283d83fa704492c4f7692d3f3bd8cda1817c3d558517b977d305dc3abacbcedd6b0505c1e1b8500dd311ce62a60e88bba70c76de9e8f0a89b",
+      "hoten": "Quản trị viên",
+      "hinhanh": ""
+    }
+  }
+}

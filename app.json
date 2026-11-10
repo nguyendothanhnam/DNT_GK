@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Quản lý người dùng",
+    "slug": "userspace-crud",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.gkdnt.userspace"
+    },
+    "web": {
+      "bundler": "metro",
+      "name": "Quản lý người dùng"
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Cho phép chọn ảnh đại diện người dùng.",
+          "cameraPermission": false,
+          "microphonePermission": false
+        }
+      ],
+      "expo-status-bar"
+    ]
+  }
+}

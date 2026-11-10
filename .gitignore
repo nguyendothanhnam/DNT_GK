@@ -1,0 +1,11 @@
+node_modules/
+.expo/
+dist/
+.env
+data/local.json
+data/export.json
+*.log
+service-account*.json
+serviceAccountKey.json
+.idea/
+docs/
